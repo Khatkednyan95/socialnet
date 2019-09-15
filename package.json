@@ -1,6 +1,9 @@
 {
   "name": "dev-coonector",
   "version": "1.0.0",
+  "engines":{
+    "node":"10.16.1"
+  },
   "description": "Dev connector app",
   "main": "server.js",
   "scripts": {
